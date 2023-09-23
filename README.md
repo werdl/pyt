@@ -1,6 +1,7 @@
 ## Pyt
 ### What is pyt?
 - a very easy python testing framework
+- very minimal. find a bug? you can probably fix it!
 - designed to be, pretty much, import and go!
 - makes writing tests easier - and you re more likely to write them!
 ### A quick example
