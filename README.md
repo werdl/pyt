@@ -34,3 +34,5 @@ Just run o.run(human_readable=False)!
 ![contents of test.py](img/test.py.png)
 - output:
 ![output of test.py](img/test.py.output.png.png)
+### Anything else?
+- Pyt has an `__eq__` method, an `__str__` and `__repr__`

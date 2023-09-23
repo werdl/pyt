@@ -10,7 +10,6 @@ class pyt:
         self.__passed=0
         self.__paramsret=[]
         self.__pass_rate=100
-
     def __str__(self) -> str:
         """Return pass rate"""
         return str(self.__pass_rate)
