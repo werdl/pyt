@@ -6,7 +6,8 @@
 - makes writing tests easier - and you re more likely to write them!
 ### Installation
 - `git clone` this repo
-- `pip install .` the folder
+- `cd src`
+- `pip install src` in the directory
 - and you're away!
 - now it just works with import pyt.
 ### A quick example
