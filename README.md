@@ -33,6 +33,6 @@ Just run o.run(human_readable=False)!
 - test.py:
 ![contents of test.py](img/test.py.png)
 - output:
-![output of test.py](img/test.py.output.png.png)
+![output of test.py](img/test.py.output.png)
 ### Anything else?
 - Pyt has an `__eq__` method, an `__str__` and `__repr__`
