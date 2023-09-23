@@ -1,7 +1,4 @@
-
 import inspect
-from typing import Any
-
 class pyt:
     def __init__(self,fun) -> None:
         """Pyt - an easy, simple testing framework. `fun` is thie function to be tested."""
