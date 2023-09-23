@@ -7,7 +7,7 @@
 ### Installation
 - `git clone` this repo
 - `cd src`
-- `pip install src` in the directory
+- `pip install .` in the directory
 - and you're away!
 - now it just works with import pyt.
 ### A quick example
