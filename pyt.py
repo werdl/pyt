@@ -64,19 +64,3 @@ Passed {self.__passed}/{self.__failed+self.__passed} tests ({pass_rate}%)
 """)
         self.__pass_rate=pass_rate
         return pass_rate/100
-# def add(a: int|float, b: int|float) -> int|float:
-#     return a+b
-
-# p=pyt(add)
-
-# p.addvalues([3,2],5)
-# p.addvalues([6,7],13)
-# p.addvalues([18,19.5],37.5)
-# p.run(human_readable=True)
-
-# q=pyt(x)
-
-# q.addvalues([3,2],5)
-# q.addvalues([6,7],13)
-# q.addvalues([18,19],20)
-# q.run()
